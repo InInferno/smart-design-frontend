@@ -1,6 +1,6 @@
 # Smart Design Frontend
 
-Ссылка: [SmartDesignFrontend](https://ininferno.github.io/smart-design-frontend/ "SmartDesignFrontend").
+Ссылка: [SmartDesignFrontend](https://github.com/InInferno/smart-design-frontend "SmartDesignFrontend").
 
 
 Управление контентом электронного магазина
