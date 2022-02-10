@@ -27,7 +27,7 @@ SPA приложение. Имеет два роута: страница с со
 
 ### Установка:
 
-Клонировать [репозиторий](https://ininferno.github.io/smart-design-frontend)
+Клонировать [репозиторий](https://github.com/InInferno/smart-design-frontend)
 
 Установить пакеты
 
